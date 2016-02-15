@@ -9,7 +9,10 @@ I organize me note by tree structure.
 
 
 # Structure
-┞─┬──Android
-│ └────Xposed
+┬───┬Android
+│   │
+│   └────Xposed
+│
 ├────Java
+│
 └────C
