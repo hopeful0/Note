@@ -1,5 +1,6 @@
 # Note
 hopeful's study note.
+
 # Description
 Due to one suggestion of my friend,I create this repository to record my study note.
 
@@ -9,9 +10,14 @@ I organize me note by tree structure.
 
 
 # Structure
-┬───┬Android<br />
-│   └────Xposed<br />
-├────Java<br />
-├────C<br />
-└───┬Web<br />
-    └────Html
+>Android
+>
+>>Xposed
+
+>Java
+
+>C
+
+>Web
+>
+>>Html
