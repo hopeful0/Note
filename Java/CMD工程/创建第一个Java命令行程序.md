@@ -19,6 +19,7 @@ write in *2016-06-01*
 
 而在**Linux**环境下，**终端**+**Vim**可以认为是标配，当然不熟悉`Vim`的朋友可以使用**GNU nano**。
 
+[Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.htm)
 
 ## 编写源代码文件
 ---
