@@ -10,6 +10,6 @@
 
 >>> [创建第一个Java命令行程序](创建第一个Java命令行程序.md)
 
->>> [有包的Java程序的编译与执行](有包的Java程序的编译与执行.md)
+>>> [package组织的Java程序的编译与执行](package组织的Java程序的编译与执行.md)
 
 #END
