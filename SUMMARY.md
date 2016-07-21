@@ -4,6 +4,7 @@
 * [Android](Android/README.md)
     * [SurfaceView](Android/SurfaceView/README.md)
         * [自定义SurfaceView（一）：SurfaceHolder](Android/SurfaceView/自定义SurfaceView1.md)
+        * [自定义SurfaceView（二）：线程](Android/SurfaceView/自定义SurfaceView2.md)
 * [Java](Java/README.md)
    * [CMD工程](Java/CMD工程/README.md)
        * [创建第一个Java命令行程序](Java/CMD工程/创建第一个Java命令行程序.md)
