@@ -20,4 +20,6 @@
 
 >>> [自定义SurfaceView（一）：SurfaceHolder](./自定义SurfaceView1.md)
 
+>>> [自定义SurfaceView（二）：线程](./自定义SurfaceView2.md)
+
 # END
