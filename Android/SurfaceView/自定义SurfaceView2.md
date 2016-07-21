@@ -23,9 +23,10 @@ write in *2016-07-21*
                 //do something
                 ...
             }
-        }
+        });
+        mThread.start();
     }
     ...
 ```
 
-
+但是有时候由于需要，你可能在自定义SurfaceView被构造的时候就创建并启动这个线程（比如用SurfaceView线程做游戏主线程，需要进行初始化处理），这样你需要加上一个标志（flag），并在回调中改变这个标志的状态，以保证在surface被创建后才会进行SurfaceView的绘制。
