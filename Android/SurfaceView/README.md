@@ -22,8 +22,6 @@
 
 >>> [自定义SurfaceView（二）：线程](./自定义SurfaceView2.md)
 
->>> [自定义SurfaceView（三）：CustomeView](./自定义)
-
-
+>>> [自定义SurfaceView（三）：CustomeView](./自定义SurfaceView3.md)
 
 # END
