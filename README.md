@@ -14,7 +14,7 @@ I organize me note by tree structure like this.
 
 > [Android](Android/README.md)
 > 
-> > 
+> > [Android开发教程之调试篇](Android/Android开发教程之调试篇.md)
 > > [SurfaceView](Android/SurfaceView/README.md)
 >
 > [Java](Java/README.md)
