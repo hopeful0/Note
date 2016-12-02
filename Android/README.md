@@ -8,6 +8,8 @@
 
 >> [Android](README.md)
 
+>>> [Android开发教程之调试篇](Android/Android开发教程之调试篇.md)
+
 >>> [SurfaceView](SurfaceView/README.md)
 
 # END
